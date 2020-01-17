@@ -1,3 +1,4 @@
 
-https://github.com/masa-su/pixyz
-https://github.com/musyoku/chainer-glow-mnist/blob/master/glow/nn/invertible_1x1_conv.py
+- https://github.com/masa-su/pixyz
+- https://github.com/musyoku/chainer-glow-mnist/blob/master/glow/nn/invertible_1x1_conv.py
+- https://github.com/nat-chan/Glow-PyTorch
