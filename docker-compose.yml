@@ -1,0 +1,11 @@
+version: '2.3'
+services:
+  pytorch:
+    # image: tensorflow/tensorflow:2.0.0rc0-gpu-py3
+    build: .
+    ports:
+      - 8888:8888
+    volumes:
+      - ./:/workspace/Github
+      - /tmp:/tmp
+    runtime: nvidia
